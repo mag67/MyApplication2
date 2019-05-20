@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Omikuji</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="buttun_send">Send</string>
+</resources>
